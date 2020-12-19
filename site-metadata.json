@@ -2,7 +2,7 @@
     "description": "The Life and Times of the Lutleys in China",
     "header": {
         "title": "Lutley Chronicles",
-        "tagline": "Minimal and clean blog theme",
+        "tagline": "",
         "logo_img": "images/logo.png",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
