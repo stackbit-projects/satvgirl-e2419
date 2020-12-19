@@ -36,7 +36,7 @@
                 "url": "https://www.facebook.com/lutleychronicles/",
                 "style": "link",
                 "icon_class": "fa-facebook",
-                "new_window": false,
+                "new_window": true,
                 "type": "action"
             }
         ],
